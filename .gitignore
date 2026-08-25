@@ -1,0 +1,24 @@
+# Java / Maven
+securecloud/target/
+securecloud/.mvn/wrapper/maven-wrapper.jar
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.dbsecurecloud/src/main/resources/application.properties
